@@ -1,0 +1,2 @@
+# WordHuntSolver
+Word Hunt Solver
